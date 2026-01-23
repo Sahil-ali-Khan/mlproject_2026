@@ -1,0 +1,29 @@
+{
+  "name": "_py-xgboost-mutex",
+  "version": "2.0",
+  "build": "cpu_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "subdir": "win-64",
+  "fn": "_py-xgboost-mutex-2.0-cpu_2.tar.bz2",
+  "md5": "04bc5c4751319cdac6d1155366842280",
+  "url": "https://conda.anaconda.org/anaconda/win-64/_py-xgboost-mutex-2.0-cpu_2.tar.bz2",
+  "sha256": "cfcf74a2f79917361795c8a22f18b76313a30f9981b4f94d304f6f780356e6e4",
+  "depends": [],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1721080503000,
+  "size": 15564,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\_py-xgboost-mutex-2.0-cpu_2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\_py-xgboost-mutex-2.0-cpu_2",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\_py-xgboost-mutex-2.0-cpu_2",
+    "type": 1
+  }
+}

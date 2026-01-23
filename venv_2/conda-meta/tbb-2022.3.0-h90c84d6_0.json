@@ -1,0 +1,68 @@
+{
+  "name": "tbb",
+  "version": "2022.3.0",
+  "build": "h90c84d6_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "subdir": "win-64",
+  "fn": "tbb-2022.3.0-h90c84d6_0.tar.bz2",
+  "md5": "386ac0fdc3bf21317e03762cf90695c2",
+  "url": "https://conda.anaconda.org/anaconda/win-64/tbb-2022.3.0-h90c84d6_0.tar.bz2",
+  "sha256": "3af1170b68d17007d78febb7bf390bfa8343a962d867e8c6590724b82247a03d",
+  "depends": [
+    "libhwloc >=2.12.1,<2.12.2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1764336927000,
+  "size": 203521,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\tbb-2022.3.0-h90c84d6_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\tbb-2022.3.0-h90c84d6_0",
+  "files": [
+    "Library/bin/tbb12.dll",
+    "Library/bin/tbbbind_2_5.dll",
+    "Library/bin/tbbmalloc.dll",
+    "Library/bin/tbbmalloc_proxy.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/tbb12.dll",
+        "path_type": "hardlink",
+        "sha256": "61cad15648346a38fbd8afe7a05ea7b8df9ce36297b3648a35613f584c86c2de",
+        "size_in_bytes": 351048,
+        "sha256_in_prefix": "61cad15648346a38fbd8afe7a05ea7b8df9ce36297b3648a35613f584c86c2de"
+      },
+      {
+        "_path": "Library/bin/tbbbind_2_5.dll",
+        "path_type": "hardlink",
+        "sha256": "bab998e85582a28725bc588f43280858a1dbc135a67396cf72f198237aba17b6",
+        "size_in_bytes": 36680,
+        "sha256_in_prefix": "bab998e85582a28725bc588f43280858a1dbc135a67396cf72f198237aba17b6"
+      },
+      {
+        "_path": "Library/bin/tbbmalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "b1b25f6ecd7f06e4406b9dde8a97b173b05bb644c90f8bd2867c627dcb1a73f2",
+        "size_in_bytes": 124744,
+        "sha256_in_prefix": "b1b25f6ecd7f06e4406b9dde8a97b173b05bb644c90f8bd2867c627dcb1a73f2"
+      },
+      {
+        "_path": "Library/bin/tbbmalloc_proxy.dll",
+        "path_type": "hardlink",
+        "sha256": "0d85a8a5c39fa9e5651b44200288ba3e2917d432c47017c5a56b9425aab6be42",
+        "size_in_bytes": 43336,
+        "sha256_in_prefix": "0d85a8a5c39fa9e5651b44200288ba3e2917d432c47017c5a56b9425aab6be42"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\tbb-2022.3.0-h90c84d6_0",
+    "type": 1
+  }
+}

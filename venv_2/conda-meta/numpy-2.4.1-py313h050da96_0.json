@@ -1,0 +1,41 @@
+{
+  "name": "numpy",
+  "version": "2.4.1",
+  "build": "py313h050da96_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "subdir": "win-64",
+  "fn": "numpy-2.4.1-py313h050da96_0.tar.bz2",
+  "md5": "83de56b79034062bf7e789d2fff7c0ac",
+  "url": "https://conda.anaconda.org/anaconda/win-64/numpy-2.4.1-py313h050da96_0.tar.bz2",
+  "sha256": "eaf12ec251e2cabe17eb174d64c7e18fd2c10418756d58d3fee7ede754445770",
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2025.0.0,<2026.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 2.4.1 py313h1e017a8_0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+  "timestamp": 1768376689000,
+  "size": 19343,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\numpy-2.4.1-py313h050da96_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\numpy-2.4.1-py313h050da96_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\MohammadSahil\\anaconda3\\pkgs\\numpy-2.4.1-py313h050da96_0",
+    "type": 1
+  }
+}
